@@ -1,4 +1,7 @@
 # SBG71restJPA
+
+Keep this project as reference for a different global CORS configuration !!!
+
 Spring Boot with Gradle + Spring Data JPA + Spring Data REST
 
 From project SPBG71restJPA Contains:
